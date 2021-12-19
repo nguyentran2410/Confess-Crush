@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `XIN LỖI VÌ ĐÃ QUẠO M`,
     btnIntro: '^^hello^^',
     title: 'ĐỪNG GIẬN T NỮA NHÁ',
-    desc: 'đừng giận nữa ',
+    desc: 'đừng giận nữa 🥺🥺',
     btnYes: 'hết giận r',
     btnNo: 'đang còn giận',
     question: 'nỡ lòng nào lại giận tao',
